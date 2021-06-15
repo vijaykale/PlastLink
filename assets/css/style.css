@@ -24,7 +24,22 @@
 
 
 /* --=== Start CSS ===-- */
-
+.textalign_center
+{
+     text-align: center;
+}
+.textalign_left
+{
+     text-align: left;
+}
+.textalign_right    
+{
+     text-align: right;
+}
+.textalign_justify
+{
+     text-align: justify;
+}
 .margin-top-100 {
     margin-top: 100px;
 }
